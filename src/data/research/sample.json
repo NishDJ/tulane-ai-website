@@ -1,0 +1,105 @@
+[
+  {
+    "id": "ai-diagnosis-project",
+    "title": "AI-Powered Medical Diagnosis System",
+    "description": "Developing machine learning models to assist physicians in diagnosing complex medical conditions using multimodal data including medical imaging, laboratory results, and clinical notes. This project aims to create interpretable AI models that can provide diagnostic recommendations while maintaining transparency in clinical decision-making.",
+    "status": "active",
+    "startDate": "2023-01-15T00:00:00.000Z",
+    "endDate": "2025-12-31T00:00:00.000Z",
+    "principalInvestigator": "Dr. John Doe",
+    "collaborators": ["Dr. Jane Smith", "Dr. Robert Chen", "Dr. Sarah Johnson"],
+    "fundingSource": "NIH Grant R01-AI123456 ($2.5M over 3 years)",
+    "tags": ["AI", "Medical Diagnosis", "Machine Learning", "Clinical Decision Support", "Multimodal Data"],
+    "publications": [
+      {
+        "title": "Machine Learning Applications in Medical Diagnosis: A Comprehensive Review",
+        "authors": ["John Doe", "Jane Smith", "Robert Chen"],
+        "journal": "Nature Medicine",
+        "year": 2023,
+        "doi": "10.1038/s41591-023-01234-5"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "Multimodal Clinical Dataset",
+        "description": "De-identified clinical data including imaging, lab results, and clinical notes from 10,000 patients",
+        "size": "2.5 TB",
+        "format": "DICOM, HL7 FHIR, JSON",
+        "accessLevel": "restricted",
+        "downloadUrl": "https://data.tulane.edu/clinical-multimodal"
+      }
+    ],
+    "images": ["/images/research/ai-diagnosis-1.jpg", "/images/research/ai-diagnosis-2.jpg"],
+    "featured": true
+  },
+  {
+    "id": "precision-medicine-genomics",
+    "title": "Precision Medicine Through Genomic Data Integration",
+    "description": "Leveraging machine learning to integrate genomic, proteomic, and clinical data for personalized treatment recommendations. This project focuses on developing algorithms that can predict drug responses and identify optimal treatment pathways for individual patients based on their genetic profiles.",
+    "status": "active",
+    "startDate": "2022-09-01T00:00:00.000Z",
+    "endDate": "2025-08-31T00:00:00.000Z",
+    "principalInvestigator": "Dr. Jane Smith",
+    "collaborators": ["Dr. John Doe", "Dr. Michael Brown", "Dr. Lisa Wang"],
+    "fundingSource": "NSF Grant DBI-2234567 ($1.8M over 3 years)",
+    "tags": ["Precision Medicine", "Genomics", "Personalized Healthcare", "Drug Response Prediction", "Bioinformatics"],
+    "publications": [
+      {
+        "title": "Genomic Data Integration for Precision Medicine: Challenges and Opportunities",
+        "authors": ["Jane Smith", "David Wilson", "Emily Chen"],
+        "journal": "Nature Genetics",
+        "year": 2023,
+        "doi": "10.1038/s41588-023-01456-7"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "Integrated Genomic-Clinical Dataset",
+        "description": "Genomic sequences and clinical outcomes for 5,000 patients across multiple disease categories",
+        "size": "1.2 TB",
+        "format": "VCF, FASTQ, CSV",
+        "accessLevel": "public",
+        "downloadUrl": "https://data.tulane.edu/genomic-clinical"
+      }
+    ],
+    "images": ["/images/research/precision-medicine-1.jpg"],
+    "featured": true
+  },
+  {
+    "id": "nlp-clinical-notes",
+    "title": "Natural Language Processing for Clinical Documentation",
+    "description": "Developing advanced NLP techniques to extract meaningful insights from unstructured clinical notes and improve healthcare documentation efficiency. The project includes automated coding, clinical decision support, and quality metrics extraction from free-text medical records.",
+    "status": "active",
+    "startDate": "2023-06-01T00:00:00.000Z",
+    "endDate": "2026-05-31T00:00:00.000Z",
+    "principalInvestigator": "Dr. Robert Chen",
+    "collaborators": ["Dr. Maria Garcia", "Dr. James Liu"],
+    "fundingSource": "AHRQ Grant R18-HS028901 ($1.2M over 3 years)",
+    "tags": ["Natural Language Processing", "Clinical Documentation", "Electronic Health Records", "Healthcare Quality", "Text Mining"],
+    "datasets": [
+      {
+        "name": "De-identified Clinical Notes Corpus",
+        "description": "Large corpus of de-identified clinical notes for NLP research and development",
+        "size": "500 GB",
+        "format": "JSON, XML, TXT",
+        "accessLevel": "restricted"
+      }
+    ],
+    "images": ["/images/research/nlp-clinical-1.jpg"],
+    "featured": false
+  },
+  {
+    "id": "ai-drug-discovery",
+    "title": "AI-Accelerated Drug Discovery Platform",
+    "description": "Building a comprehensive AI platform for accelerating drug discovery processes, from target identification to clinical trial optimization. The platform integrates molecular modeling, pharmacokinetics prediction, and clinical outcome forecasting.",
+    "status": "planned",
+    "startDate": "2024-04-01T00:00:00.000Z",
+    "endDate": "2027-03-31T00:00:00.000Z",
+    "principalInvestigator": "Dr. Jane Smith",
+    "collaborators": ["Dr. John Doe", "Dr. Robert Chen", "Dr. Emily Chen"],
+    "fundingSource": "Pending NIH Grant Application R01-GM234567 ($3.2M over 3 years)",
+    "tags": ["Drug Discovery", "Molecular Modeling", "Pharmacokinetics", "Clinical Trials", "AI Platform"],
+    "images": ["/images/research/drug-discovery-1.jpg"],
+    "featured": false
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "id": "ms-ai-data-science",
+    "title": "Master of Science in AI and Data Science",
+    "type": "degree",
+    "level": "graduate",
+    "description": "A comprehensive graduate program that combines artificial intelligence, machine learning, and data science with medical applications. Students gain hands-on experience with real-world healthcare data and cutting-edge AI technologies.",
+    "duration": "2 years full-time, 3-4 years part-time",
+    "format": "hybrid",
+    "requirements": [
+      "Bachelor's degree in computer science, mathematics, statistics, or related field",
+      "Minimum GPA of 3.0",
+      "GRE scores (recommended)",
+      "Two letters of recommendation",
+      "Statement of purpose",
+      "Programming experience in Python or R"
+    ],
+    "prerequisites": [
+      "Calculus I and II",
+      "Linear Algebra",
+      "Statistics or Probability",
+      "Programming fundamentals"
+    ],
+    "courses": [
+      {
+        "id": "ai-ds-5001",
+        "code": "AI-DS 5001",
+        "title": "Foundations of AI and Data Science",
+        "description": "Introduction to artificial intelligence and data science concepts, including machine learning algorithms, statistical methods, and data preprocessing techniques.",
+        "credits": 3,
+        "prerequisites": [],
+        "instructor": "Dr. Jane Smith",
+        "schedule": {
+          "days": ["Monday", "Wednesday"],
+          "time": "2:00 PM - 3:30 PM",
+          "location": "Medical School Building, Room 201"
+        },
+        "semester": "fall",
+        "isRequired": true
+      },
+      {
+        "id": "ai-ds-5002",
+        "code": "AI-DS 5002",
+        "title": "Machine Learning for Healthcare",
+        "description": "Application of machine learning techniques to healthcare problems, including medical image analysis, electronic health records, and predictive modeling.",
+        "credits": 3,
+        "prerequisites": ["AI-DS 5001"],
+        "instructor": "Dr. Robert Chen",
+        "schedule": {
+          "days": ["Tuesday", "Thursday"],
+          "time": "10:00 AM - 11:30 AM",
+          "location": "Medical School Building, Room 305"
+        },
+        "semester": "spring",
+        "isRequired": true
+      },
+      {
+        "id": "ai-ds-5003",
+        "code": "AI-DS 5003",
+        "title": "Deep Learning and Neural Networks",
+        "description": "Advanced study of deep learning architectures, including convolutional neural networks, recurrent neural networks, and transformer models.",
+        "credits": 3,
+        "prerequisites": ["AI-DS 5001"],
+        "instructor": "Dr. John Doe",
+        "schedule": {
+          "days": ["Monday", "Wednesday"],
+          "time": "4:00 PM - 5:30 PM",
+          "location": "Medical School Building, Room 201"
+        },
+        "semester": "spring",
+        "isRequired": true
+      },
+      {
+        "id": "ai-ds-5004",
+        "code": "AI-DS 5004",
+        "title": "Medical Data Analytics",
+        "description": "Analysis of medical data including genomics, proteomics, and clinical data. Focus on statistical methods and visualization techniques.",
+        "credits": 3,
+        "prerequisites": ["AI-DS 5001"],
+        "instructor": "Dr. Jane Smith",
+        "schedule": {
+          "days": ["Tuesday", "Thursday"],
+          "time": "2:00 PM - 3:30 PM",
+          "location": "Medical School Building, Room 305"
+        },
+        "semester": "fall",
+        "isRequired": false
+      }
+    ],
+    "applicationDeadline": "2025-03-15T23:59:59.000Z",
+    "applicationUrl": "https://apply.tulane.edu/programs/ms-ai-data-science",
+    "tuition": {
+      "amount": 58000,
+      "period": "year",
+      "currency": "USD"
+    },
+    "featured": true,
+    "isActive": true,
+    "image": "/images/programs/ms-ai-data-science.jpg",
+    "brochureUrl": "/resources/ms-ai-data-science-brochure.pdf"
+  },
+  {
+    "id": "cert-clinical-ai",
+    "title": "Certificate in Clinical AI Applications",
+    "type": "certificate",
+    "level": "professional",
+    "description": "A professional certificate program designed for healthcare professionals who want to integrate AI technologies into clinical practice. Learn practical applications of AI in diagnosis, treatment planning, and patient care.",
+    "duration": "6 months part-time",
+    "format": "online",
+    "requirements": [
+      "Healthcare professional license or medical degree",
+      "Basic computer literacy",
+      "Access to clinical data (for projects)"
+    ],
+    "prerequisites": [
+      "Healthcare background",
+      "Basic statistics knowledge"
+    ],
+    "courses": [
+      {
+        "id": "cai-101",
+        "code": "CAI 101",
+        "title": "Introduction to AI in Healthcare",
+        "description": "Overview of artificial intelligence applications in healthcare, including current technologies and future trends.",
+        "credits": 2,
+        "prerequisites": [],
+        "instructor": "Dr. Robert Chen",
+        "schedule": {
+          "days": ["Online"],
+          "time": "Self-paced",
+          "location": "Online Platform"
+        },
+        "semester": "year-round",
+        "isRequired": true
+      },
+      {
+        "id": "cai-102",
+        "code": "CAI 102",
+        "title": "AI-Powered Diagnostic Tools",
+        "description": "Hands-on experience with AI diagnostic tools, including medical imaging analysis and decision support systems.",
+        "credits": 3,
+        "prerequisites": ["CAI 101"],
+        "instructor": "Dr. Jane Smith",
+        "schedule": {
+          "days": ["Online"],
+          "time": "Weekly live sessions",
+          "location": "Online Platform"
+        },
+        "semester": "year-round",
+        "isRequired": true
+      }
+    ],
+    "applicationDeadline": null,
+    "applicationUrl": "https://apply.tulane.edu/programs/cert-clinical-ai",
+    "tuition": {
+      "amount": 3500,
+      "period": "total",
+      "currency": "USD"
+    },
+    "featured": true,
+    "isActive": true,
+    "image": "/images/programs/cert-clinical-ai.jpg",
+    "brochureUrl": "/resources/cert-clinical-ai-brochure.pdf"
+  },
+  {
+    "id": "phd-biomedical-ai",
+    "title": "PhD in Biomedical AI",
+    "type": "degree",
+    "level": "doctoral",
+    "description": "A research-intensive doctoral program focusing on the development and application of AI technologies in biomedical research. Students work closely with faculty on cutting-edge research projects.",
+    "duration": "4-6 years full-time",
+    "format": "on-campus",
+    "requirements": [
+      "Master's degree in relevant field",
+      "Minimum GPA of 3.5",
+      "GRE scores",
+      "Three letters of recommendation",
+      "Research statement",
+      "Strong programming and mathematical background"
+    ],
+    "prerequisites": [
+      "Advanced calculus",
+      "Linear algebra",
+      "Statistics",
+      "Programming experience",
+      "Research experience"
+    ],
+    "courses": [
+      {
+        "id": "bai-7001",
+        "code": "BAI 7001",
+        "title": "Advanced AI Methods in Biomedicine",
+        "description": "Advanced artificial intelligence methods specifically designed for biomedical applications, including novel architectures and optimization techniques.",
+        "credits": 4,
+        "prerequisites": [],
+        "instructor": "Dr. John Doe",
+        "schedule": {
+          "days": ["Monday", "Wednesday", "Friday"],
+          "time": "9:00 AM - 10:30 AM",
+          "location": "Research Building, Room 401"
+        },
+        "semester": "fall",
+        "isRequired": true
+      }
+    ],
+    "applicationDeadline": "2024-12-15T23:59:59.000Z",
+    "applicationUrl": "https://apply.tulane.edu/programs/phd-biomedical-ai",
+    "tuition": {
+      "amount": 0,
+      "period": "year",
+      "currency": "USD"
+    },
+    "featured": false,
+    "isActive": true,
+    "image": "/images/programs/phd-biomedical-ai.jpg",
+    "brochureUrl": "/resources/phd-biomedical-ai-brochure.pdf"
+  },
+  {
+    "id": "cont-ed-data-literacy",
+    "title": "Data Literacy for Healthcare Professionals",
+    "type": "continuing-education",
+    "level": "professional",
+    "description": "A continuing education course designed to help healthcare professionals understand and interpret data in their daily practice. Covers basic statistics, data visualization, and evidence-based decision making.",
+    "duration": "3 months part-time",
+    "format": "hybrid",
+    "requirements": [
+      "Healthcare professional license",
+      "Basic computer skills"
+    ],
+    "prerequisites": [],
+    "courses": [
+      {
+        "id": "dl-ce-001",
+        "code": "DL-CE 001",
+        "title": "Healthcare Data Fundamentals",
+        "description": "Introduction to healthcare data types, sources, and basic analysis techniques.",
+        "credits": 1,
+        "prerequisites": [],
+        "instructor": "Dr. Jane Smith",
+        "schedule": {
+          "days": ["Saturday"],
+          "time": "9:00 AM - 12:00 PM",
+          "location": "Medical School Building, Room 101"
+        },
+        "semester": "year-round",
+        "isRequired": true
+      }
+    ],
+    "applicationDeadline": null,
+    "applicationUrl": "https://apply.tulane.edu/programs/cont-ed-data-literacy",
+    "tuition": {
+      "amount": 1200,
+      "period": "total",
+      "currency": "USD"
+    },
+    "featured": false,
+    "isActive": true,
+    "image": "/images/programs/cont-ed-data-literacy.jpg"
+  }
+]

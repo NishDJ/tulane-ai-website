@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ai-symposium-2024",
+    "title": "Annual AI in Medicine Symposium 2024",
+    "description": "Join us for our annual symposium featuring the latest advances in AI applications for medical research and practice. This year's theme focuses on 'Translating AI Research into Clinical Practice' with keynote speakers from leading academic institutions and healthcare organizations. The event includes technical sessions, poster presentations, and networking opportunities for researchers, clinicians, and industry professionals.",
+    "startDate": "2024-03-15T09:00:00.000Z",
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "location": "Tulane University School of Medicine Auditorium, New Orleans, LA",
+    "eventType": "conference",
+    "registrationUrl": "https://tulane.edu/events/ai-symposium-2024",
+    "capacity": 200,
+    "speakers": ["Dr. John Doe", "Dr. Jane Smith", "Dr. Robert Chen", "Dr. Emily Watson (Harvard Medical School)", "Dr. Michael Johnson (Mayo Clinic)"],
+    "tags": ["AI", "Medicine", "Symposium", "Research", "Clinical Practice"]
+  },
+  {
+    "id": "ml-healthcare-workshop",
+    "title": "Machine Learning in Healthcare Workshop",
+    "description": "A hands-on workshop designed for healthcare professionals and researchers interested in applying machine learning techniques to medical data. Participants will learn practical skills in data preprocessing, model development, and evaluation using real-world healthcare datasets. No prior programming experience required.",
+    "startDate": "2024-02-28T10:00:00.000Z",
+    "endDate": "2024-02-28T16:00:00.000Z",
+    "location": "Tulane AI Research Lab, Room 8050",
+    "eventType": "workshop",
+    "registrationUrl": "https://tulane.edu/events/ml-healthcare-workshop",
+    "capacity": 30,
+    "speakers": ["Dr. Jane Smith", "Dr. Robert Chen", "Maria Rodriguez (PhD Student)"],
+    "tags": ["Machine Learning", "Healthcare", "Workshop", "Training", "Hands-on"]
+  },
+  {
+    "id": "guest-lecture-stanford",
+    "title": "Guest Lecture: AI Ethics in Medical Practice",
+    "description": "Distinguished guest lecture by Dr. Sarah Chen from Stanford University on the ethical considerations and challenges of implementing AI systems in clinical practice. The lecture will cover topics including algorithmic bias, patient privacy, informed consent, and regulatory frameworks for medical AI.",
+    "startDate": "2024-02-14T14:00:00.000Z",
+    "endDate": "2024-02-14T15:30:00.000Z",
+    "location": "Tulane University School of Medicine, Lecture Hall A",
+    "eventType": "seminar",
+    "registrationUrl": "https://tulane.edu/events/ai-ethics-lecture",
+    "capacity": 150,
+    "speakers": ["Dr. Sarah Chen (Stanford University)"],
+    "tags": ["AI Ethics", "Medical Practice", "Guest Lecture", "Stanford", "Seminar"]
+  },
+  {
+    "id": "student-research-showcase",
+    "title": "Graduate Student Research Showcase",
+    "description": "Annual showcase of research projects by graduate students in the AI and Data Science Division. Students will present their latest findings through poster sessions and short presentations. This event provides an opportunity for students to share their work with faculty, peers, and industry representatives.",
+    "startDate": "2024-04-12T13:00:00.000Z",
+    "endDate": "2024-04-12T17:00:00.000Z",
+    "location": "Tulane University Student Center, Ballroom",
+    "eventType": "conference",
+    "registrationUrl": "https://tulane.edu/events/student-research-showcase",
+    "capacity": 100,
+    "speakers": ["Graduate Students", "Dr. John Doe", "Dr. Jane Smith", "Dr. Robert Chen"],
+    "tags": ["Student Research", "Showcase", "Posters", "Graduate Students", "Presentations"]
+  },
+  {
+    "id": "industry-networking-mixer",
+    "title": "AI in Healthcare Industry Networking Mixer",
+    "description": "Informal networking event bringing together faculty, students, and industry professionals working in AI and healthcare. The mixer features light refreshments, brief company presentations, and opportunities to discuss collaboration, internships, and career opportunities in the field.",
+    "startDate": "2024-01-25T18:00:00.000Z",
+    "endDate": "2024-01-25T20:00:00.000Z",
+    "location": "Tulane University Faculty Club",
+    "eventType": "social",
+    "registrationUrl": "https://tulane.edu/events/industry-networking-mixer",
+    "capacity": 80,
+    "speakers": ["Industry Representatives", "Faculty Members"],
+    "tags": ["Networking", "Industry", "Career", "Social", "Collaboration"]
+  },
+  {
+    "id": "computational-biology-seminar",
+    "title": "Computational Biology Seminar Series: Genomic Data Analysis",
+    "description": "Monthly seminar series focusing on computational approaches to biological problems. This month's topic covers advanced techniques for genomic data analysis, including variant calling, genome-wide association studies, and pharmacogenomics applications.",
+    "startDate": "2024-01-18T15:00:00.000Z",
+    "endDate": "2024-01-18T16:00:00.000Z",
+    "location": "Tulane AI Research Lab, Conference Room",
+    "eventType": "seminar",
+    "capacity": 40,
+    "speakers": ["Dr. Jane Smith", "Dr. David Wilson (External Collaborator)"],
+    "tags": ["Computational Biology", "Genomics", "Seminar Series", "Data Analysis", "GWAS"]
+  }
+]

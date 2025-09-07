@@ -1,0 +1,189 @@
+[
+  {
+    "id": "app-ms-ai-data-science",
+    "programId": "ms-ai-data-science",
+    "requirements": [
+      {
+        "id": "req-1",
+        "title": "Academic Transcripts",
+        "description": "Official transcripts from all previously attended institutions",
+        "required": true,
+        "documents": ["Official transcripts", "Degree verification"]
+      },
+      {
+        "id": "req-2",
+        "title": "Letters of Recommendation",
+        "description": "Two letters of recommendation from academic or professional references",
+        "required": true,
+        "documents": ["Recommendation letter 1", "Recommendation letter 2"]
+      },
+      {
+        "id": "req-3",
+        "title": "Statement of Purpose",
+        "description": "A 500-1000 word statement outlining your goals and motivation for the program",
+        "required": true,
+        "documents": ["Statement of purpose"]
+      },
+      {
+        "id": "req-4",
+        "title": "GRE Scores",
+        "description": "Graduate Record Examination scores (recommended but not required)",
+        "required": false,
+        "documents": ["GRE score report"]
+      }
+    ],
+    "process": [
+      {
+        "id": "step-1",
+        "step": 1,
+        "title": "Submit Online Application",
+        "description": "Complete the online application form with personal and academic information",
+        "estimatedTime": "30-45 minutes",
+        "url": "https://apply.tulane.edu/programs/ms-ai-data-science"
+      },
+      {
+        "id": "step-2",
+        "step": 2,
+        "title": "Upload Required Documents",
+        "description": "Upload all required documents including transcripts, letters of recommendation, and statement of purpose",
+        "estimatedTime": "1-2 hours"
+      },
+      {
+        "id": "step-3",
+        "step": 3,
+        "title": "Application Review",
+        "description": "Our admissions committee will review your application and supporting materials",
+        "estimatedTime": "4-6 weeks"
+      },
+      {
+        "id": "step-4",
+        "step": 4,
+        "title": "Interview (if selected)",
+        "description": "Selected candidates may be invited for an interview with faculty members",
+        "estimatedTime": "30-60 minutes"
+      },
+      {
+        "id": "step-5",
+        "step": 5,
+        "title": "Admission Decision",
+        "description": "You will receive notification of the admission decision via email and postal mail",
+        "estimatedTime": "1-2 weeks after interview"
+      }
+    ],
+    "deadlines": [
+      {
+        "id": "deadline-1",
+        "type": "application",
+        "date": "2025-03-15T23:59:59.000Z",
+        "description": "Final deadline for submitting online application"
+      },
+      {
+        "id": "deadline-2",
+        "type": "documents",
+        "date": "2025-03-22T23:59:59.000Z",
+        "description": "Final deadline for submitting all supporting documents"
+      },
+      {
+        "id": "deadline-3",
+        "type": "decision",
+        "date": "2025-05-01T23:59:59.000Z",
+        "description": "Admission decisions will be sent by this date"
+      }
+    ],
+    "contactInfo": {
+      "email": "admissions@tulane.edu",
+      "phone": "(504) 865-5000",
+      "office": "Medical School Admissions Office, Room 100"
+    },
+    "faq": [
+      {
+        "id": "faq-1",
+        "question": "What is the minimum GPA requirement?",
+        "answer": "We require a minimum GPA of 3.0 from your undergraduate degree. However, competitive applicants typically have a GPA of 3.5 or higher.",
+        "category": "Admissions"
+      },
+      {
+        "id": "faq-2",
+        "question": "Is programming experience required?",
+        "answer": "Yes, applicants should have programming experience in Python or R. We recommend completing online courses or tutorials if you lack this background.",
+        "category": "Prerequisites"
+      },
+      {
+        "id": "faq-3",
+        "question": "Can I apply if my undergraduate degree is not in a STEM field?",
+        "answer": "Yes, we consider applicants from diverse academic backgrounds. However, you must demonstrate proficiency in mathematics and programming through coursework or professional experience.",
+        "category": "Admissions"
+      },
+      {
+        "id": "faq-4",
+        "question": "Is financial aid available?",
+        "answer": "Yes, we offer various forms of financial aid including scholarships, assistantships, and federal financial aid. Contact our financial aid office for more information.",
+        "category": "Financial Aid"
+      }
+    ]
+  },
+  {
+    "id": "app-cert-clinical-ai",
+    "programId": "cert-clinical-ai",
+    "requirements": [
+      {
+        "id": "req-1",
+        "title": "Professional License",
+        "description": "Current healthcare professional license or medical degree",
+        "required": true,
+        "documents": ["License verification", "Medical degree"]
+      },
+      {
+        "id": "req-2",
+        "title": "Professional Experience",
+        "description": "Minimum 2 years of clinical experience",
+        "required": true,
+        "documents": ["CV/Resume", "Employment verification"]
+      }
+    ],
+    "process": [
+      {
+        "id": "step-1",
+        "step": 1,
+        "title": "Submit Application",
+        "description": "Complete the online application with professional background information",
+        "estimatedTime": "15-20 minutes",
+        "url": "https://apply.tulane.edu/programs/cert-clinical-ai"
+      },
+      {
+        "id": "step-2",
+        "step": 2,
+        "title": "Document Verification",
+        "description": "Our team will verify your professional credentials",
+        "estimatedTime": "1-2 weeks"
+      },
+      {
+        "id": "step-3",
+        "step": 3,
+        "title": "Enrollment Confirmation",
+        "description": "You will receive enrollment confirmation and access to the online platform",
+        "estimatedTime": "1-3 days"
+      }
+    ],
+    "deadlines": [],
+    "contactInfo": {
+      "email": "continuing-ed@tulane.edu",
+      "phone": "(504) 865-5555",
+      "office": "Continuing Education Office, Room 150"
+    },
+    "faq": [
+      {
+        "id": "faq-1",
+        "question": "Can I start the program at any time?",
+        "answer": "Yes, this is a self-paced online program that you can start at any time throughout the year.",
+        "category": "Program Structure"
+      },
+      {
+        "id": "faq-2",
+        "question": "How long do I have to complete the certificate?",
+        "answer": "You have up to 12 months from enrollment to complete all course requirements.",
+        "category": "Program Structure"
+      }
+    ]
+  }
+]

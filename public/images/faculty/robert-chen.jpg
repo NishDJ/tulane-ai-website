@@ -1,0 +1,6 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F3F4F6"/>
+  <circle cx="200" cy="120" r="40" fill="#D1D5DB"/>
+  <path d="M160 200C160 177.909 177.909 160 200 160C222.091 160 240 177.909 240 200V220H160V200Z" fill="#D1D5DB"/>
+  <text x="200" y="260" text-anchor="middle" fill="#6B7280" font-family="Arial, sans-serif" font-size="14">Dr. Robert Chen</text>
+</svg>

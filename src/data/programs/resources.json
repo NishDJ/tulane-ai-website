@@ -1,0 +1,119 @@
+[
+  {
+    "id": "resource-1",
+    "title": "AI in Healthcare: A Comprehensive Guide",
+    "description": "A detailed guide covering the fundamentals of artificial intelligence applications in healthcare, including case studies and best practices.",
+    "type": "pdf",
+    "category": "Study Materials",
+    "url": "/resources/ai-healthcare-guide.pdf",
+    "downloadable": true,
+    "size": "2.5 MB",
+    "lastUpdated": "2024-12-01T00:00:00.000Z",
+    "tags": ["AI", "Healthcare", "Guide", "Fundamentals"]
+  },
+  {
+    "id": "resource-2",
+    "title": "Machine Learning Algorithms Cheat Sheet",
+    "description": "Quick reference guide for common machine learning algorithms used in medical data analysis.",
+    "type": "pdf",
+    "category": "Reference Materials",
+    "url": "/resources/ml-algorithms-cheat-sheet.pdf",
+    "downloadable": true,
+    "size": "1.2 MB",
+    "lastUpdated": "2024-11-15T00:00:00.000Z",
+    "tags": ["Machine Learning", "Algorithms", "Reference", "Cheat Sheet"]
+  },
+  {
+    "id": "resource-3",
+    "title": "Introduction to Deep Learning - Video Lecture Series",
+    "description": "A series of video lectures covering the basics of deep learning, neural networks, and their applications in medical imaging.",
+    "type": "video",
+    "category": "Video Lectures",
+    "url": "https://video.tulane.edu/deep-learning-series",
+    "downloadable": false,
+    "lastUpdated": "2024-10-20T00:00:00.000Z",
+    "tags": ["Deep Learning", "Neural Networks", "Video", "Lectures"]
+  },
+  {
+    "id": "resource-4",
+    "title": "Python for Data Science Handbook",
+    "description": "Comprehensive handbook covering Python programming for data science applications, with examples from healthcare datasets.",
+    "type": "pdf",
+    "category": "Programming",
+    "url": "/resources/python-data-science-handbook.pdf",
+    "downloadable": true,
+    "size": "5.8 MB",
+    "lastUpdated": "2024-09-30T00:00:00.000Z",
+    "tags": ["Python", "Data Science", "Programming", "Handbook"]
+  },
+  {
+    "id": "resource-5",
+    "title": "Medical Data Visualization Tools",
+    "description": "Interactive web application demonstrating various data visualization techniques for medical and healthcare data.",
+    "type": "link",
+    "category": "Interactive Tools",
+    "url": "https://tools.tulane.edu/medical-data-viz",
+    "downloadable": false,
+    "lastUpdated": "2024-11-01T00:00:00.000Z",
+    "tags": ["Visualization", "Tools", "Interactive", "Medical Data"]
+  },
+  {
+    "id": "resource-6",
+    "title": "Research Paper Template",
+    "description": "LaTeX template for writing research papers in AI and data science, formatted according to major conference standards.",
+    "type": "document",
+    "category": "Templates",
+    "url": "/resources/research-paper-template.zip",
+    "downloadable": true,
+    "size": "150 KB",
+    "lastUpdated": "2024-08-15T00:00:00.000Z",
+    "tags": ["Template", "Research", "LaTeX", "Writing"]
+  },
+  {
+    "id": "resource-7",
+    "title": "Ethics in AI for Healthcare",
+    "description": "Comprehensive document covering ethical considerations when developing and deploying AI systems in healthcare settings.",
+    "type": "pdf",
+    "category": "Ethics",
+    "url": "/resources/ai-ethics-healthcare.pdf",
+    "downloadable": true,
+    "size": "3.1 MB",
+    "lastUpdated": "2024-12-10T00:00:00.000Z",
+    "tags": ["Ethics", "AI", "Healthcare", "Guidelines"]
+  },
+  {
+    "id": "resource-8",
+    "title": "Statistical Methods in Medical Research",
+    "description": "Video tutorial series covering statistical methods commonly used in medical research and data analysis.",
+    "type": "video",
+    "category": "Video Lectures",
+    "url": "https://video.tulane.edu/statistical-methods",
+    "downloadable": false,
+    "lastUpdated": "2024-10-05T00:00:00.000Z",
+    "tags": ["Statistics", "Medical Research", "Video", "Methods"]
+  },
+  {
+    "id": "resource-9",
+    "title": "Program Brochures Collection",
+    "description": "Collection of brochures for all our degree programs, certificates, and continuing education courses.",
+    "type": "pdf",
+    "category": "Program Information",
+    "url": "/resources/program-brochures.zip",
+    "downloadable": true,
+    "size": "8.2 MB",
+    "lastUpdated": "2024-12-15T00:00:00.000Z",
+    "tags": ["Brochures", "Programs", "Information", "Admissions"]
+  },
+  {
+    "id": "resource-10",
+    "title": "Career Development Guide",
+    "description": "Guide for students and professionals on career opportunities in AI and data science within healthcare.",
+    "type": "pdf",
+    "category": "Career Resources",
+    "url": "/resources/career-development-guide.pdf",
+    "downloadable": true,
+    "size": "2.8 MB",
+    "lastUpdated": "2024-11-20T00:00:00.000Z",
+    "tags": ["Career", "Development", "Opportunities", "Guide"]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "john-doe",
+    "name": "Dr. John Doe",
+    "title": "Professor of AI and Data Science",
+    "department": "School of Medicine",
+    "email": "john.doe@tulane.edu",
+    "phone": "+1 (504) 988-1234",
+    "office": "Room 8033, Tulane Center for AI in Medicine",
+    "bio": "Dr. John Doe is a leading researcher in medical AI applications with over 15 years of experience in machine learning and healthcare data analysis. His work focuses on developing interpretable AI models for clinical decision support and medical image analysis. He has published over 80 peer-reviewed papers and holds 12 patents in medical AI technologies.",
+    "researchAreas": ["Medical AI", "Machine Learning", "Healthcare Analytics", "Computer Vision", "Clinical Decision Support"],
+    "education": [
+      {
+        "degree": "Ph.D. in Computer Science",
+        "institution": "Stanford University",
+        "year": 2008,
+        "field": "Artificial Intelligence"
+      },
+      {
+        "degree": "M.S. in Biomedical Engineering",
+        "institution": "Johns Hopkins University",
+        "year": 2004,
+        "field": "Medical Imaging"
+      },
+      {
+        "degree": "B.S. in Computer Science",
+        "institution": "MIT",
+        "year": 2002
+      }
+    ],
+    "publications": [
+      {
+        "title": "Machine Learning Applications in Medical Diagnosis: A Comprehensive Review",
+        "authors": ["John Doe", "Jane Smith", "Robert Chen"],
+        "journal": "Nature Medicine",
+        "year": 2023,
+        "doi": "10.1038/s41591-023-01234-5",
+        "url": "https://nature.com/articles/s41591-023-01234-5"
+      },
+      {
+        "title": "Interpretable AI for Clinical Decision Support Systems",
+        "authors": ["John Doe", "Sarah Johnson"],
+        "journal": "Journal of Medical Internet Research",
+        "year": 2023,
+        "doi": "10.2196/45678"
+      },
+      {
+        "title": "Deep Learning in Medical Image Analysis: Current Trends and Future Directions",
+        "authors": ["John Doe", "Michael Brown", "Lisa Wang"],
+        "journal": "IEEE Transactions on Medical Imaging",
+        "year": 2022,
+        "doi": "10.1109/TMI.2022.3234567"
+      }
+    ],
+    "profileImage": "/images/faculty/john-doe.jpg",
+    "socialLinks": {
+      "twitter": "https://twitter.com/johndoe_ai",
+      "linkedin": "https://linkedin.com/in/johndoe-ai",
+      "github": "https://github.com/johndoe-research",
+      "website": "https://johndoe-research.tulane.edu"
+    },
+    "isActive": true
+  },
+  {
+    "id": "jane-smith",
+    "name": "Dr. Jane Smith",
+    "title": "Associate Professor of Biomedical Data Science",
+    "department": "School of Medicine",
+    "email": "jane.smith@tulane.edu",
+    "phone": "+1 (504) 988-5678",
+    "office": "Room 8045, Tulane Center for AI in Medicine",
+    "bio": "Dr. Jane Smith specializes in computational biology and precision medicine. Her research focuses on developing machine learning algorithms for genomic data analysis and personalized treatment recommendations. She leads several NIH-funded projects and collaborates with major medical centers nationwide.",
+    "researchAreas": ["Computational Biology", "Precision Medicine", "Genomics", "Bioinformatics", "Personalized Healthcare"],
+    "education": [
+      {
+        "degree": "Ph.D. in Computational Biology",
+        "institution": "Harvard University",
+        "year": 2010,
+        "field": "Bioinformatics"
+      },
+      {
+        "degree": "M.S. in Statistics",
+        "institution": "University of California, Berkeley",
+        "year": 2006,
+        "field": "Biostatistics"
+      },
+      {
+        "degree": "B.S. in Biology",
+        "institution": "Yale University",
+        "year": 2004,
+        "field": "Molecular Biology"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Genomic Data Integration for Precision Medicine: Challenges and Opportunities",
+        "authors": ["Jane Smith", "David Wilson", "Emily Chen"],
+        "journal": "Nature Genetics",
+        "year": 2023,
+        "doi": "10.1038/s41588-023-01456-7"
+      },
+      {
+        "title": "Machine Learning Approaches for Drug Response Prediction",
+        "authors": ["Jane Smith", "John Doe"],
+        "journal": "Cell",
+        "year": 2022,
+        "doi": "10.1016/j.cell.2022.11.023"
+      }
+    ],
+    "profileImage": "/images/faculty/jane-smith.jpg",
+    "socialLinks": {
+      "twitter": "https://twitter.com/janesmith_bio",
+      "linkedin": "https://linkedin.com/in/janesmith-compbio",
+      "github": "https://github.com/janesmith-lab"
+    },
+    "isActive": true
+  },
+  {
+    "id": "robert-chen",
+    "name": "Dr. Robert Chen",
+    "title": "Assistant Professor of Medical Informatics",
+    "department": "School of Medicine",
+    "email": "robert.chen@tulane.edu",
+    "phone": "+1 (504) 988-9012",
+    "office": "Room 8052, Tulane Center for AI in Medicine",
+    "bio": "Dr. Robert Chen is an expert in medical informatics and electronic health record systems. His research focuses on natural language processing for clinical text mining and developing AI-powered tools for healthcare quality improvement. He has extensive experience in clinical data integration and interoperability.",
+    "researchAreas": ["Medical Informatics", "Natural Language Processing", "Electronic Health Records", "Healthcare Quality", "Clinical Data Mining"],
+    "education": [
+      {
+        "degree": "Ph.D. in Medical Informatics",
+        "institution": "University of Washington",
+        "year": 2015,
+        "field": "Health Informatics"
+      },
+      {
+        "degree": "M.D.",
+        "institution": "University of California, San Francisco",
+        "year": 2010
+      },
+      {
+        "degree": "B.S. in Computer Science",
+        "institution": "University of California, Los Angeles",
+        "year": 2006
+      }
+    ],
+    "publications": [
+      {
+        "title": "Natural Language Processing in Electronic Health Records: A Systematic Review",
+        "authors": ["Robert Chen", "Maria Garcia", "James Liu"],
+        "journal": "Journal of the American Medical Informatics Association",
+        "year": 2023,
+        "doi": "10.1093/jamia/ocad123"
+      }
+    ],
+    "profileImage": "/images/faculty/robert-chen.jpg",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/robertchen-informatics",
+      "website": "https://robertchen-lab.tulane.edu"
+    },
+    "isActive": true
+  }
+]

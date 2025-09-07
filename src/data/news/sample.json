@@ -1,0 +1,67 @@
+[
+  {
+    "id": "new-ai-lab-opening",
+    "title": "New AI Research Lab Opens at Tulane Medical School",
+    "slug": "new-ai-lab-opening",
+    "excerpt": "The Tulane AI and Data Science Division announces the opening of a state-of-the-art research laboratory equipped with cutting-edge computing infrastructure and collaborative spaces for interdisciplinary research.",
+    "content": "We are excited to announce the opening of our new AI research laboratory, a 5,000 square foot facility that will serve as the hub for artificial intelligence and data science research at Tulane University School of Medicine. The lab features high-performance computing clusters, specialized workstations for medical image analysis, and collaborative spaces designed to foster interdisciplinary research between computer scientists, physicians, and biomedical researchers. This investment represents Tulane's commitment to advancing the field of medical AI and training the next generation of healthcare technology leaders.",
+    "author": "Dr. Sarah Johnson, Communications Director",
+    "publishDate": "2024-01-15T00:00:00.000Z",
+    "lastModified": "2024-01-16T10:30:00.000Z",
+    "tags": ["News", "Research", "Laboratory", "Infrastructure", "AI"],
+    "featuredImage": "/images/news/ai-lab-opening.jpg",
+    "featured": true
+  },
+  {
+    "id": "nih-grant-award",
+    "title": "Tulane AI Division Receives $2.5M NIH Grant for Medical Diagnosis Research",
+    "slug": "nih-grant-award-medical-diagnosis",
+    "excerpt": "The National Institutes of Health awards a significant grant to support the development of AI-powered diagnostic tools that will assist physicians in making more accurate and timely diagnoses.",
+    "content": "The Tulane AI and Data Science Division has been awarded a prestigious $2.5 million grant from the National Institutes of Health to develop next-generation AI-powered medical diagnosis systems. Led by Dr. John Doe, this three-year project will focus on creating interpretable machine learning models that can analyze multimodal clinical data to assist physicians in diagnosing complex medical conditions. The research team will collaborate with multiple medical centers to ensure the developed tools are clinically relevant and can be seamlessly integrated into existing healthcare workflows. This grant represents one of the largest AI research awards in Tulane's history and underscores the university's growing reputation in medical artificial intelligence research.",
+    "author": "Dr. Michael Brown, Research Communications",
+    "publishDate": "2023-12-08T00:00:00.000Z",
+    "lastModified": "2023-12-08T14:20:00.000Z",
+    "tags": ["Grant", "NIH", "Research Funding", "Medical Diagnosis", "AI"],
+    "featuredImage": "/images/news/nih-grant-award.jpg",
+    "featured": true
+  },
+  {
+    "id": "faculty-recognition-nature",
+    "title": "Dr. Jane Smith's Research Featured in Nature Genetics",
+    "slug": "faculty-recognition-nature-genetics",
+    "excerpt": "Associate Professor Dr. Jane Smith's groundbreaking work on genomic data integration for precision medicine has been published in the prestigious journal Nature Genetics.",
+    "content": "We are proud to announce that Dr. Jane Smith's latest research on genomic data integration for precision medicine has been published in Nature Genetics, one of the most prestigious journals in the field. The study, titled 'Genomic Data Integration for Precision Medicine: Challenges and Opportunities,' presents novel machine learning approaches for combining genomic, proteomic, and clinical data to enable personalized treatment recommendations. This publication highlights the innovative research being conducted at Tulane's AI and Data Science Division and its potential impact on the future of personalized healthcare. Dr. Smith's work has already garnered attention from the international research community and is expected to influence clinical practice guidelines for precision medicine.",
+    "author": "Editorial Team",
+    "publishDate": "2023-11-22T00:00:00.000Z",
+    "lastModified": "2023-11-22T16:45:00.000Z",
+    "tags": ["Faculty", "Publication", "Nature Genetics", "Precision Medicine", "Recognition"],
+    "featuredImage": "/images/news/nature-genetics-publication.jpg",
+    "featured": false
+  },
+  {
+    "id": "student-awards-conference",
+    "title": "Tulane AI Students Win Best Paper Award at International Conference",
+    "slug": "student-awards-conference",
+    "excerpt": "Graduate students from the AI and Data Science Division receive recognition for their innovative research on clinical decision support systems at the International Conference on Medical AI.",
+    "content": "Three graduate students from Tulane's AI and Data Science Division have been awarded the Best Paper Award at the International Conference on Medical AI for their research on 'Interpretable Deep Learning Models for Clinical Decision Support.' The winning team, consisting of PhD students Maria Rodriguez, David Kim, and Alex Thompson, developed novel techniques for creating AI models that not only provide accurate predictions but also offer clear explanations for their recommendations. Their work addresses one of the most critical challenges in medical AI: the need for transparency and interpretability in clinical decision-making tools. The students were mentored by Dr. John Doe and Dr. Robert Chen, and their research is part of the larger NIH-funded project on AI-powered medical diagnosis systems.",
+    "author": "Student Affairs Office",
+    "publishDate": "2023-10-15T00:00:00.000Z",
+    "lastModified": "2023-10-15T12:30:00.000Z",
+    "tags": ["Students", "Awards", "Conference", "Research", "Clinical Decision Support"],
+    "featuredImage": "/images/news/student-awards.jpg",
+    "featured": false
+  },
+  {
+    "id": "industry-partnership-announcement",
+    "title": "Tulane AI Division Partners with Leading Healthcare Technology Companies",
+    "slug": "industry-partnership-announcement",
+    "excerpt": "New partnerships with major healthcare technology companies will accelerate the translation of research discoveries into real-world clinical applications.",
+    "content": "The Tulane AI and Data Science Division announces strategic partnerships with three leading healthcare technology companies to accelerate the translation of research discoveries into clinical practice. These partnerships with MedTech Innovations, HealthAI Solutions, and Clinical Data Systems will provide access to real-world clinical datasets, cloud computing resources, and pathways for commercializing research outcomes. The collaborations will focus on developing AI-powered tools for medical imaging analysis, clinical decision support, and population health management. These industry partnerships represent a significant step forward in Tulane's mission to bridge the gap between academic research and practical healthcare solutions that can benefit patients worldwide.",
+    "author": "Partnership Development Office",
+    "publishDate": "2023-09-28T00:00:00.000Z",
+    "lastModified": "2023-09-28T09:15:00.000Z",
+    "tags": ["Partnership", "Industry", "Healthcare Technology", "Commercialization", "Translation"],
+    "featuredImage": "/images/news/industry-partnership.jpg",
+    "featured": false
+  }
+]

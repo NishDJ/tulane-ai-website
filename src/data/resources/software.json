@@ -1,0 +1,180 @@
+[
+  {
+    "id": "software-1",
+    "title": "MedImageAI",
+    "description": "A comprehensive toolkit for medical image analysis powered by deep learning. Includes pre-trained models for common radiology tasks, data preprocessing utilities, and visualization tools.",
+    "version": "2.1.0",
+    "category": "Medical Imaging",
+    "url": "https://tools.tulane.edu/medimageai",
+    "githubUrl": "https://github.com/tulane-ai/medimageai",
+    "documentationUrl": "https://docs.tulane.edu/medimageai",
+    "downloadUrl": "https://github.com/tulane-ai/medimageai/releases/latest",
+    "license": "Apache 2.0",
+    "platform": ["Windows", "macOS", "Linux"],
+    "requirements": ["Python 3.8+", "CUDA 11.0+", "8GB RAM", "GPU recommended"],
+    "features": [
+      "Pre-trained models for X-ray, CT, and MRI analysis",
+      "DICOM file support",
+      "Interactive visualization dashboard",
+      "Batch processing capabilities",
+      "Model fine-tuning tools",
+      "Export to clinical formats"
+    ],
+    "screenshots": [
+      "/images/software/medimageai-dashboard.png",
+      "/images/software/medimageai-analysis.png"
+    ],
+    "tags": ["Medical Imaging", "Deep Learning", "Radiology", "Computer Vision"],
+    "featured": true,
+    "lastUpdated": "2024-12-10T00:00:00.000Z",
+    "maintainers": ["Dr. Jane Smith", "Dr. Robert Chen"]
+  },
+  {
+    "id": "software-2",
+    "title": "ClinicalNLP Toolkit",
+    "description": "Natural language processing toolkit specifically designed for clinical text analysis. Includes named entity recognition, relation extraction, and clinical concept normalization.",
+    "version": "1.5.2",
+    "category": "Medical Informatics",
+    "url": "https://tools.tulane.edu/clinical-nlp",
+    "githubUrl": "https://github.com/tulane-ai/clinical-nlp",
+    "documentationUrl": "https://docs.tulane.edu/clinical-nlp",
+    "downloadUrl": "https://pypi.org/project/clinical-nlp-toolkit/",
+    "license": "MIT",
+    "platform": ["Windows", "macOS", "Linux"],
+    "requirements": ["Python 3.7+", "4GB RAM", "spaCy 3.0+"],
+    "features": [
+      "Medical named entity recognition",
+      "Clinical concept normalization",
+      "Relation extraction",
+      "Negation detection",
+      "Temporal information extraction",
+      "UMLS integration"
+    ],
+    "screenshots": [
+      "/images/software/clinical-nlp-interface.png"
+    ],
+    "tags": ["Natural Language Processing", "Clinical Text", "Medical NLP", "Electronic Health Records"],
+    "featured": true,
+    "lastUpdated": "2024-11-25T00:00:00.000Z",
+    "maintainers": ["Dr. Robert Chen", "Dr. Emily Davis"]
+  },
+  {
+    "id": "software-3",
+    "title": "GenomicsML",
+    "description": "Machine learning library for genomics data analysis with focus on precision medicine applications. Includes tools for variant analysis, gene expression analysis, and drug response prediction.",
+    "version": "3.0.1",
+    "category": "Precision Medicine",
+    "url": "https://tools.tulane.edu/genomicsml",
+    "githubUrl": "https://github.com/tulane-ai/genomicsml",
+    "documentationUrl": "https://docs.tulane.edu/genomicsml",
+    "downloadUrl": "https://conda.anaconda.org/tulane-ai/genomicsml",
+    "license": "BSD 3-Clause",
+    "platform": ["Windows", "macOS", "Linux"],
+    "requirements": ["Python 3.8+", "NumPy", "Pandas", "Scikit-learn", "16GB RAM recommended"],
+    "features": [
+      "Variant calling and annotation",
+      "Gene expression analysis",
+      "Pathway enrichment analysis",
+      "Drug response prediction models",
+      "Population genetics tools",
+      "Visualization utilities"
+    ],
+    "screenshots": [
+      "/images/software/genomicsml-workflow.png",
+      "/images/software/genomicsml-results.png"
+    ],
+    "tags": ["Genomics", "Machine Learning", "Precision Medicine", "Bioinformatics"],
+    "featured": false,
+    "lastUpdated": "2024-10-15T00:00:00.000Z",
+    "maintainers": ["Dr. John Wilson", "Dr. Maria Garcia"]
+  },
+  {
+    "id": "software-4",
+    "title": "FedHealthML",
+    "description": "Federated learning framework specifically designed for healthcare applications. Enables collaborative machine learning while preserving patient privacy and complying with healthcare regulations.",
+    "version": "1.2.0",
+    "category": "Healthcare Analytics",
+    "url": "https://tools.tulane.edu/fedhealthml",
+    "githubUrl": "https://github.com/tulane-ai/fedhealthml",
+    "documentationUrl": "https://docs.tulane.edu/fedhealthml",
+    "downloadUrl": "https://github.com/tulane-ai/fedhealthml/releases/latest",
+    "license": "GPL 3.0",
+    "platform": ["Linux", "macOS"],
+    "requirements": ["Python 3.9+", "Docker", "8GB RAM", "Network connectivity"],
+    "features": [
+      "Privacy-preserving federated learning",
+      "HIPAA-compliant data handling",
+      "Multi-institutional collaboration",
+      "Differential privacy support",
+      "Secure aggregation protocols",
+      "Healthcare-specific algorithms"
+    ],
+    "screenshots": [
+      "/images/software/fedhealthml-architecture.png"
+    ],
+    "tags": ["Federated Learning", "Privacy", "Healthcare Analytics", "Collaborative ML"],
+    "featured": true,
+    "lastUpdated": "2024-09-30T00:00:00.000Z",
+    "maintainers": ["Dr. Sarah Williams", "Dr. David Lee"]
+  },
+  {
+    "id": "software-5",
+    "title": "DrugDiscoveryAI",
+    "description": "AI-powered drug discovery platform that integrates molecular design, property prediction, and optimization. Includes pre-trained models for ADMET prediction and molecular generation.",
+    "version": "2.3.0",
+    "category": "Drug Discovery",
+    "url": "https://tools.tulane.edu/drugdiscoveryai",
+    "githubUrl": "https://github.com/tulane-ai/drugdiscoveryai",
+    "documentationUrl": "https://docs.tulane.edu/drugdiscoveryai",
+    "downloadUrl": "https://tools.tulane.edu/drugdiscoveryai/download",
+    "license": "Commercial License",
+    "platform": ["Linux", "Windows", "macOS"],
+    "requirements": ["Python 3.8+", "RDKit", "PyTorch", "16GB RAM", "GPU recommended"],
+    "features": [
+      "Molecular generation and optimization",
+      "ADMET property prediction",
+      "Drug-target interaction prediction",
+      "Virtual screening tools",
+      "Chemical space exploration",
+      "Lead compound optimization"
+    ],
+    "screenshots": [
+      "/images/software/drugdiscoveryai-pipeline.png",
+      "/images/software/drugdiscoveryai-molecules.png"
+    ],
+    "tags": ["Drug Discovery", "Molecular Design", "ADMET", "Virtual Screening"],
+    "featured": false,
+    "lastUpdated": "2024-08-20T00:00:00.000Z",
+    "maintainers": ["Dr. Lisa Anderson", "Dr. Mark Thompson"]
+  },
+  {
+    "id": "software-6",
+    "title": "HealthViz",
+    "description": "Interactive visualization toolkit for healthcare data. Provides customizable dashboards, statistical plots, and interactive charts specifically designed for medical and healthcare datasets.",
+    "version": "1.4.1",
+    "category": "Data Visualization",
+    "url": "https://tools.tulane.edu/healthviz",
+    "githubUrl": "https://github.com/tulane-ai/healthviz",
+    "documentationUrl": "https://docs.tulane.edu/healthviz",
+    "downloadUrl": "https://npm.org/package/@tulane-ai/healthviz",
+    "license": "MIT",
+    "platform": ["Web Browser", "Node.js"],
+    "requirements": ["Node.js 14+", "Modern web browser", "4GB RAM"],
+    "features": [
+      "Interactive medical dashboards",
+      "Time series visualization",
+      "Statistical analysis plots",
+      "Patient journey mapping",
+      "Population health metrics",
+      "Export to multiple formats"
+    ],
+    "screenshots": [
+      "/images/software/healthviz-dashboard.png",
+      "/images/software/healthviz-charts.png"
+    ],
+    "tags": ["Data Visualization", "Healthcare Analytics", "Interactive Charts", "Dashboards"],
+    "featured": false,
+    "lastUpdated": "2024-07-10T00:00:00.000Z",
+    "maintainers": ["Dr. Amanda Brown", "Dr. Kevin Martinez"]
+  }
+]

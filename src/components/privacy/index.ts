@@ -1,0 +1,1 @@
+export { CookieConsent, useCookiePreferences } from './cookie-consent';
