@@ -1,9 +1,11 @@
 # Multi-stage build for production
-FROM node:18-alpine AS base
+FROM node:18-slim AS base
 
 # Install dependencies only when needed
 FROM base AS deps
-RUN apk add --no-cache libc6-compat
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libc6-dev \
+    && rm -rf /var/lib/apt/lists/*
 WORKDIR /app
 
 # Install dependencies based on the preferred package manager
