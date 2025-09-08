@@ -1,5 +1,5 @@
 # Multi-stage build for production
-FROM node:18-slim AS base
+FROM node:20-slim AS base
 
 # Install dependencies only when needed
 FROM base AS deps
