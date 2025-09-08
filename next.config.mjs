@@ -1,6 +1,4 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+const nextConfig = {
   // Enable standalone output for Docker deployment
   output: process.env.BUILD_STANDALONE === 'true' ? 'standalone' : undefined,
   
@@ -68,9 +66,10 @@ const nextConfig: NextConfig = {
   
   // Bundle analyzer for production builds
   ...(process.env.ANALYZE === 'true' && {
-    webpack: (config: any) => {
+    webpack: (config) => {
+      const { BundleAnalyzerPlugin } = await import('webpack-bundle-analyzer');
       config.plugins.push(
-        new (require('webpack-bundle-analyzer').BundleAnalyzerPlugin)({
+        new BundleAnalyzerPlugin({
           analyzerMode: 'static',
           openAnalyzer: false,
         })
