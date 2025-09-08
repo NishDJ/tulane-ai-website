@@ -66,7 +66,7 @@ const nextConfig = {
   
   // Bundle analyzer for production builds
   ...(process.env.ANALYZE === 'true' && {
-    webpack: (config) => {
+    webpack: async (config) => {
       const { BundleAnalyzerPlugin } = await import('webpack-bundle-analyzer');
       config.plugins.push(
         new BundleAnalyzerPlugin({
